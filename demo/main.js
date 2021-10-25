@@ -1,8 +1,8 @@
 const dungeoneer = require('..')
 const packageJSON = require('../package')
 
-const WIDTH = 51
-const HEIGHT = 51
+const WIDTH = 5
+const HEIGHT = 5
 
 const canvas = document.querySelector('canvas')
 const ctx = canvas.getContext('2d')
